@@ -67,7 +67,7 @@ Ground everything in the actual data — do not fabricate numbers.`;
         "anthropic-version": "2023-06-01",
       },
       body: JSON.stringify({
-        model: "claude-sonnet-4-20250514",
+        model:  "claude-sonnet-4-5",
         max_tokens: 3000,
         system: systemPrompt,
         messages: [{ role: "user", content: "Generate this week's intelligence brief based on the current data." }],
