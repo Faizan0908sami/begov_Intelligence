@@ -31,6 +31,10 @@ CARRY-FORWARD ITEMS FROM LAST MEETING:
 ${JSON.stringify(carryForward)}
 
 INSTRUCTIONS:
+- Return plain text only. Do NOT use markdown — no #, ##, **, tables, or pipes.
+- Use short paragraphs separated by blank lines for structure.
+- For lists, use a hyphen (-) at the start of the line, one item per line.
+- For section headings, use ALL CAPS on a single line, followed by a blank line, then the content.
 - Be precise and analytical. Reference specific districts, officials (by name and designation), and metrics.
 - Use plain language — no statistical jargon. Say "highly negative" not "-0.78".
 - When asked about a district, provide: current status, key concern, responsible officer, and a concrete recommended action.
